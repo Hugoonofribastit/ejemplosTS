@@ -1,0 +1,3 @@
+tsc nombredelarchivo  => pasa el archivo ts a js para poder compilarlo
+tsc -init  => crea el archivo de configuraciones
+tsc -w  => vamos a observar cualquier cambio que hagamos en los archivos y se van a compilar en js en el navegador
